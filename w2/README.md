@@ -24,8 +24,10 @@ ___
 - Review class assignments due dates.
 - Start assignments early.
 - Connect with classmates to solve assigments questions.
-### Evening: Relaxing and Preparing for Tomorrow
-- Relaxed by watching a movie.
+> ### Evening: 
+**Relaxing and Preparing for Tomorrow**
+- Watching a movie.
+
 More about my day in my : [CIT81Marisol](https://github.com/CIT82/marisoln-pub)
 
 ---
