@@ -1,10 +1,13 @@
 # Marisol's Day
 
 ## Morning Routine
-# *Home*
--**Wake Up**: and Got ready for work.
--**Breakfast**: Had a coffee and bread.
--**Drive**: 45 minutes to the office.
+
+> ### Home
+**Wake Up**
+
+- Got ready for work.
+- Had a coffee and bread.
+- Drove 45 minutes to the office.
 
 ## Work
 
