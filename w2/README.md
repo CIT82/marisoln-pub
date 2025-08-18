@@ -21,13 +21,11 @@ ___
 **Reviewing Class Assignments**
 
 > *Afternoon Plan*:
-- Review class assigments due dates.
-- Start assigments before early.
+- Review class assignments due dates.
+- Start assignments early.
 - Connect with classmates to solve assigments questions.
 ### Evening: Relaxing and Preparing for Tomorrow
 - Relaxed by watching a movie.
-More about the day in my : [CIT81Marisol](https://github.com/CIT82/marisoln-pub)
-
-![some insects for motivation](w2/insects.jpg)
+More about my day in my : [CIT81Marisol](https://github.com/CIT82/marisoln-pub)
 
 ---
