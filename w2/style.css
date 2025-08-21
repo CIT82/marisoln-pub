@@ -1,5 +1,5 @@
-h1 {
-  color: rgb(27, 44, 44);
+hi {
+    color: cadetblue;
 }
 
 p {
@@ -14,4 +14,7 @@ body {
 
 li {
   background-color: cadetblue;
+}
+img {
+    max-width: 100%;
 }
