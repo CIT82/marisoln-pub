@@ -1,18 +1,17 @@
-     h1 {
-             color: cadetblue;
-     }
-     p{
-    color: purple;
-}
-body {
-  padding: 1em;
-      background-color: lightpink;
+h1 {
+  color: rgb(27, 44, 44);
 }
 
-  li {
-      background-color: cadetblue;
-  color: white;
+p {
+  color: purple;
+  background-color: lightblue;
 }
-  p {
-  background-color: lightblue);
+
+body {
+  padding: 1em;
+  background-color: lightpink;
+}
+
+li {
+  background-color: cadetblue;
 }
