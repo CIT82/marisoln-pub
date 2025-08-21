@@ -1,6 +1,18 @@
-p{
+     h1 {
+             color: cadetblue;
+     }
+     p{
     color: purple;
 }
-.c{
-    color: pink
+body {
+  padding: 1em;
+      background-color: lightpink;
+}
+
+  li {
+      background-color: cadetblue;
+  color: white;
+}
+  p {
+  background-color: lightblue);
 }
