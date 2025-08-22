@@ -1,0 +1,20 @@
+hi {
+    color: cadetblue;
+}
+
+p {
+  color: purple;
+  background-color: lightblue;
+}
+
+body {
+  padding: 1em;
+  background-color: lightpink;
+}
+
+li {
+  background-color: cadetblue;
+}
+img {
+    max-width: 100%;
+}
